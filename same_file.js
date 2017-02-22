@@ -1,1 +1,1 @@
-/* commentaire de Link */
+/* commentaire de Link ameliore du comm de Kirby */
